@@ -1,0 +1,15 @@
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/BT3.deps.json
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/BT3.runtimeconfig.json
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/BT3.runtimeconfig.dev.json
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/BT3.dll
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/ref/BT3.dll
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/bin/Debug/net5.0/BT3.pdb
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.csproj.AssemblyReference.cache
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.AssemblyInfoInputs.cache
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.AssemblyInfo.cs
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.csproj.CoreCompileInputs.cache
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.dll
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/ref/BT3.dll
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.pdb
+/Users/nguyenminhtri/RiderProjects/BaiTapOOP/BT3/obj/Debug/net5.0/BT3.genruntimeconfig.cache
